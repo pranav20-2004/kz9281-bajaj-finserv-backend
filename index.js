@@ -47,9 +47,9 @@ app.post("/bfhl", (req, res) => {
       .json({ is_success: false, message: "Invalid input data format." });
   }
 
-  const user_id = "gp5901";
-  const email = "gp5901@srmist.edu.in";
-  const roll_number = "RA2111004020056";
+  const user_id = "kz9281";
+  const email = "kz9281@srmist.edu.in";
+  const roll_number = "RA2111027020113";
 
   // Separate numbers and alphabets
   const numbers = data.filter((item) => !isNaN(item));
