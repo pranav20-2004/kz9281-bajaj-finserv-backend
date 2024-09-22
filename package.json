@@ -1,0 +1,12 @@
+{
+  "name": "bfhl-challenge",
+  "version": "1.0.0",
+  "description": "Backend for BFHL challenge application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
